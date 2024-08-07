@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "codeceptjs run --steps"
+  },
   "dependencies": {
     "codeceptjs": "^3.3.7",
     "playwright": "^1.30.0"
