@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 18 13:23:51 GMT 2024","Sun Aug 18 13:23:53 GMT 2024","2080","","スモークテスト","","","","Webサイトを開きログインする",""
+"passed","Sun Aug 18 13:23:49 GMT 2024","Sun Aug 18 13:23:51 GMT 2024","1518","","一般的なエラーのテスト","","","","ユーザーが存在しないURLにアクセスすると、エラーメッセージと商品一覧へのリンクが表示される",""
