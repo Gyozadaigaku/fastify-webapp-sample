@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 18 17:07:55 GMT 2024","Sun Aug 18 17:07:56 GMT 2024","921","","一般的なエラーのテスト","","","","ユーザーが存在しないURLにアクセスすると、エラーメッセージと商品一覧へのリンクが表示される",""
+"passed","Sun Aug 18 17:07:47 GMT 2024","Sun Aug 18 17:07:55 GMT 2024","8234","","注文プロセスのテスト","","","","ログインし、お弁当を注文し、お弁当を受け取る",""
